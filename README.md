@@ -3,6 +3,8 @@
 - Project name
 - Instructions
 - Introduction to the project
+- Next Step
+- Resources
 
 # Project Name
 New York Times Search
@@ -26,4 +28,15 @@ I used the Article Search API to look up articles by keyword like web_url, snipp
     ```<link rel="stylesheet" type="text/css" href="styles1.css" >```
      ```<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">```
      
-  .To learn more about style.css click [here](https://www.w3schools.com/css/css_intro.asp)
+ To learn more about style.css click [here](https://www.w3schools.com/css/css_intro.asp)
+ 
+ # Next Step
+There are some features I want to add in the project: 
+- Extract photo when the end user search anything keyword 
+- Extract all information about author like first name , last name and others
+ 
+ # Resources
+- w3schools.com
+- Jquery Library 
+ 
+ 
