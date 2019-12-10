@@ -21,7 +21,8 @@ I used the Article Search API to look up articles by keyword like web_url, snipp
   ``` <script src="https://code.jquery.com/jquery-3.4.1.min.js"></script> ```
 .To learn more click [here](https://jquery.com/)
 
-- style.css:it is used to define styles for your web pages, including the design, layout and variations in display for different devices and screen sizes. To setup, your code with style.css library put this code in the <head> of HTML page.
+- style.css:it is used to define styles for your web pages, including the design, layout and variations in display for different devices and screen sizes. To setup, your code with style.css library put this code in the <head> of HTML page. Also I add some Icons in this project like ```fa fa-newspaper-o``` , ```fa fa-search``` and ```fa fa-trash```, I put that code in the <head> of HTML page
  
     ```<link rel="stylesheet" type="text/css" href="styles1.css" >```
+		```<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">```
   .To learn more about style.css click [here](https://www.w3schools.com/css/css_intro.asp)
