@@ -1,10 +1,10 @@
 
 # Table of Contents:
-- [Project Name]
-- [Instructions]
-- [Introduction to the project]
-- [Next Step]
-- [Resources]
+- Project Name
+- Instructions
+- Introduction to the project
+- Next Step
+- Resources
 
 # Project Name
 New York Times Articles
