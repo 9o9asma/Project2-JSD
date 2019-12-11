@@ -10,11 +10,11 @@
 New York Times Articles
 
 # Instructions
-New York Times Articles it's project with GA, It's all about HTML pages, styling with CSS and also JavaScript and jQuery . In this project, I create one HTML pages index.html it's the landeing page, one file for styling style.css and one file for javascript main.js.
+New York Times Articles it's project with GA, It's all about HTML pages, styling with CSS and also JavaScript and jQuery . In this project, I create one HTML pages ``index.html`` it's the landeing page, one file for styling ``style.css`` and one file for javascript ``main.js``.
 
 # Introduction to the project
 
-The New York Times is an American newspaper based in New York City with worldwide influence and readership. Founded in 1851, the paper has won 127 Pulitzer Prizes, more than any other newspaper.In this project, I used the Article Search API to look up articles by keyword like web_url, snippet, lead_paragraph,source and section_name. You can refine your search using filters and facets.
+The New York Times is an American newspaper based in New York City with worldwide influence and readership. Founded in 1851, the paper has won 127 Pulitzer Prizes, more than any other newspaper.In this project, I used the Article Search API to look up articles by keyword like web_url, snippet, lead_paragraph,source, section_name, begin_date and end_date. You can refine your search using filters and facets.
 
 # Usage
 - jQuery: Is a javaScript library. To setup, your code with jQuery library put this code in the <body> of HTML page.
