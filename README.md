@@ -28,7 +28,7 @@ The New York Times is an American newspaper based in New York City with worldwid
     
    ```<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">```
      
- To learn more about style.css click [here](https://www.w3schools.com/css/css_intro.asp)
+   To learn more about style.css click [here](https://www.w3schools.com/css/css_intro.asp)
  
  # Next Step
 There are some features I want to add in the project: 
